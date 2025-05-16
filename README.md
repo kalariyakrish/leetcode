@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kalariyakrish/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/kalariyakrish/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/kalariyakrish/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/kalariyakrish/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/kalariyakrish/leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Divide and Conquer
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/kalariyakrish/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kalariyakrish/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/kalariyakrish/leetcode/tree/master/1013-fibonacci-number) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/kalariyakrish/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/kalariyakrish/leetcode/tree/master/1677-matrix-diagonal-sum) |
+## Simulation
+|  |
+| ------- |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/kalariyakrish/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 <!---LeetCode Topics End-->
